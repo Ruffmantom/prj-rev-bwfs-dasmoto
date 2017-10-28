@@ -1,0 +1,48 @@
+h1, h2, h3, p {
+  font-family: Helvetica;
+}
+
+h1 {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  text-align: center;
+  font-size: 100px;
+  color: Khaki;
+  padding: 150px 200px;
+}
+body{
+  overflow: auto;
+  background-image: url("https://imgsnap.com/images/2015/10/10/6885839-light-background-wallpaper.jpg");
+}
+#fr, #br, #pa{
+  text-shadow: 1px 1px Gainsboro;
+}
+
+}
+.item h2 {
+  color: white;
+  font-size: 32px;
+}
+#products {
+  text-align: center;
+
+}
+.bottom{
+  padding: 200px ;
+  padding-bottom: 20px;
+}
+
+}
+.nav{
+  font-family: Helvetica;
+  background-color: Azure;
+  text-align: center;
+}
+
+#about{
+  text-align: center;
+}
+
+.price {
+  color: Blue;
+  font-weight: bold;
+}
